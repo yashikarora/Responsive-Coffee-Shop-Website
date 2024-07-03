@@ -2,7 +2,7 @@
 This project is a responsive coffee shop website built using HTML, CSS, and JavaScript. It features a modern design, intuitive navigation, and adapts seamlessly to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
 
 # Technologies Used
-<B>HTML5:</B> Provides the structure of the website, ensuring semantic and accessible content.
+<B>HTML:</B> Provides the structure of the website, ensuring semantic and accessible content.
 
 <B>CSS:</B> Handles the styling, including layout, typography, colors, and responsive design.
 
